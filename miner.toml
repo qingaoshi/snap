@@ -1,5 +1,5 @@
 [node]
-address = "192.168.2.111"
+address = "192.168.2.111:3003"
 
 [miner]
 public = "1glvgrrleux96dzaehvafq8s4i1d1hucufmhbn7xy9jfczfllq"
